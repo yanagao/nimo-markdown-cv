@@ -1,12 +1,10 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: yanagao
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: 841008276@qq.com
+  text: 841008276@qq.com
+phone: 18818790254
 ---
 
 # yanagao **高雅**
@@ -15,7 +13,7 @@ homepage:
 include contact information from the front matter
 Supported arguments:
     - phone: 18818790254
-    - email: 841008276@qq.con
+    - email
 -->
 
 {% include cv-contact.html %}
