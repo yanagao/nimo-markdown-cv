@@ -4,7 +4,8 @@ title: yanagao
 email:
   url: 841008276@qq.com
   text: 841008276@qq.com
-phone: 18818790254
+phone: 
+  text: 18818790254
 ---
 
 # yanagao **高雅**
@@ -18,12 +19,17 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+
+
 ## 教育背景
 
 ### **吉林大学** `2011.7 - 2015.7`
 
 
 - 计算机科学与技术学院 物联网工程专业
+
+
+
 
 
 ## 工作经验
@@ -36,6 +42,9 @@ Supported arguments:
 ### **腾讯科技（深圳）有限公司** `2014至今`
 
 负责手Q部分业务、NOW直播业务的前端开发。
+
+
+
 
 
 ## 项目经历
