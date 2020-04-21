@@ -4,7 +4,7 @@
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
-    - phone
+    - 18818790254
     - email
 -->
 
