@@ -8,7 +8,7 @@ phone:
   text: 18818790254
 ---
 
-# yanagao **高雅**
+# Yana Gao **高雅**
 
 <!--
 include contact information from the front matter
