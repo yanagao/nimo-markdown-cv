@@ -14,9 +14,8 @@ homepage:
 <!--
 include contact information from the front matter
 Supported arguments:
-    - homepage: url, text
-    - 18818790254
-    - email
+    - phone: 18818790254
+    - email: 841008276@qq.con
 -->
 
 {% include cv-contact.html %}
