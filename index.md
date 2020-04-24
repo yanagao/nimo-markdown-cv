@@ -4,8 +4,7 @@ title: yanagao
 email:
   url: 841008276@qq.com
   text: 841008276@qq.com
-phone: 
-  text: 18818790254
+phone: 18818790254
 ---
 
 # Yana Gao **高雅**
